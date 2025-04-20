@@ -650,13 +650,13 @@
 		/obj/machinery/vending/wallmed = "NanoMed",
 		/obj/machinery/vending/wardrobe/atmos_wardrobe = "AtmosDrobe",
 		/obj/machinery/vending/wardrobe/bar_wardrobe = "BarDrobe",
-		/obj/machinery/vending/wardrobe/cargo_wardrobe = "CargoDrobe",
+		/obj/machinery/vending/wardrobe/cargo_wardrobe = "LogisticsDrobe",
 		/obj/machinery/vending/wardrobe/chap_wardrobe = "ChapDrobe",
 		/obj/machinery/vending/wardrobe/chef_wardrobe = "ChefDrobe",
 		/obj/machinery/vending/wardrobe/chem_wardrobe = "ChemDrobe",
 		/obj/machinery/vending/wardrobe/coroner_wardrobe = "MortiDrobe",
 		/obj/machinery/vending/wardrobe/curator_wardrobe = "CuraDrobe",
-		/obj/machinery/vending/wardrobe/det_wardrobe = "DetDrobe",
+		/obj/machinery/vending/wardrobe/det_wardrobe = "InspectDrobe",
 		/obj/machinery/vending/wardrobe/engi_wardrobe = "EngiDrobe",
 		/obj/machinery/vending/wardrobe/gene_wardrobe = "GeneDrobe",
 		/obj/machinery/vending/wardrobe/hydro_wardrobe = "HyDrobe",
@@ -1412,7 +1412,7 @@
 	req_components = list()
 
 /obj/item/circuitboard/machine/protolathe/department/cargo
-	name = "Departmental Protolathe - Cargo"
+	name = "Departmental Protolathe - Logistics"
 	greyscale_colors = CIRCUIT_COLOR_SUPPLY
 	build_path = /obj/machinery/rnd/production/protolathe/department/cargo
 
@@ -1433,7 +1433,7 @@
 		/obj/item/stack/cable_coil = 5)
 
 /obj/item/circuitboard/machine/techfab/department/cargo
-	name = "\improper Departmental Techfab - Cargo"
+	name = "\improper Departmental Techfab - Logistics"
 	greyscale_colors = CIRCUIT_COLOR_SUPPLY
 	build_path = /obj/machinery/rnd/production/techfab/department/cargo
 

@@ -55,8 +55,8 @@
 		cost_type = credit_type,
 		can_be_cancelled = FALSE,
 	)
-	say("Thank you for your purchase! It will arrive on the next cargo shuttle!")
-	radio.talk_into(src, "A shaft miner has ordered equipment which will arrive on the cargo shuttle! Please make sure it gets to them as soon as possible!", radio_channel)
+	say("Thank you for your purchase! It will arrive on the next logistics delivery!")
+	radio.talk_into(src, "A shaft miner has ordered equipment which will arrive on the logistics delivery! Please make sure it gets to them as soon as possible!", radio_channel)
 	SSshuttle.shopping_list += new_order
 
 /obj/machinery/computer/order_console/mining/retrieve_points(obj/item/card/id/id_card)

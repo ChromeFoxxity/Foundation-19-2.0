@@ -18,5 +18,5 @@
 #endif
 
 #if DM_VERSION >= 516
-	#error "Remove all 515 experiments"
+	//#error "Remove all 515 experiments"
 #endif

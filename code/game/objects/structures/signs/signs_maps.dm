@@ -47,8 +47,8 @@ MAPPING_DIRECTIONAL_HELPERS(/obj/structure/sign/directions/medical, 32)
 MAPPING_DIRECTIONAL_HELPERS(/obj/structure/sign/directions/evac, 32)
 
 /obj/structure/sign/directions/supply
-	name = "cargo sign"
-	desc = "A direction sign, pointing out which way the Cargo Bay is."
+	name = "logistics sign"
+	desc = "A direction sign, pointing out which way the Logistics Department is."
 	icon_state = "direction_supply"
 
 MAPPING_DIRECTIONAL_HELPERS(/obj/structure/sign/directions/supply, 32)

@@ -91,8 +91,8 @@
 
 // ===== CARGO CHAT CONSOLES =====
 /obj/machinery/modular_computer/preset/cargochat
-	name = "cargo interfacing console"
-	desc = "A stationary computer that comes pre-loaded with software to interface with the cargo department."
+	name = "logistics interfacing console"
+	desc = "A stationary computer that comes pre-loaded with software to interface with the Logistics Department."
 	starting_programs = list(
 		/datum/computer_file/program/chatclient,
 	)
@@ -142,7 +142,7 @@
 /obj/machinery/modular_computer/preset/cargochat/cargo
 	department_type = /datum/job_department/cargo
 	name = "departmental interfacing console"
-	desc = "A stationary computer that comes pre-loaded with software to interface with incoming departmental cargo requests."
+	desc = "A stationary computer that comes pre-loaded with software to interface with incoming departmental logistic requests."
 
 /obj/machinery/modular_computer/preset/cargochat/cargo/add_starting_software()
 	starting_programs += /datum/computer_file/program/bounty_board

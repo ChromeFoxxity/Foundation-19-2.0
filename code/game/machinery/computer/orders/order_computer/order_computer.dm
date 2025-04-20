@@ -4,7 +4,7 @@ GLOBAL_LIST_EMPTY(order_console_products)
 
 /obj/machinery/computer/order_console
 	name = "Orders Console"
-	desc = "An interface for ordering specific ingredients from Cargo, with an express option at the cost of more money."
+	desc = "An interface for ordering specific ingredients from Logistics, with an express option at the cost of more money."
 	icon_screen = "request"
 	icon_keyboard = "generic_key"
 	light_color = LIGHT_COLOR_ORANGE
@@ -12,7 +12,7 @@ GLOBAL_LIST_EMPTY(order_console_products)
 	var/express_tooltip = @{"Sends your purchases instantly,
 	but locks the console longer and increases the price!"}
 	///Tooltip for the purchase button in TGUI
-	var/purchase_tooltip = @{"Your purchases will arrive at cargo,
+	var/purchase_tooltip = @{"Your purchases will arrive at logistics,
 	and hopefully get delivered by them."}
 
 	///Cooldown between order uses.

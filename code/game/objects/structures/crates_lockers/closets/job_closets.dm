@@ -135,7 +135,7 @@
 	return
 
 /obj/structure/closet/wardrobe/cargotech
-	name = "cargo wardrobe"
+	name = "logistics wardrobe"
 	icon_door = "cargo_wardrobe"
 
 /obj/structure/closet/wardrobe/cargotech/PopulateContents()

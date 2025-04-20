@@ -1187,30 +1187,30 @@
 		playsound(user, toysound, 20, TRUE)
 
 /obj/item/toy/figure/cmo
-	name = "\improper Chief Medical Officer action figure"
+	name = "\improper Medical Director action figure"
 	icon_state = "cmo"
 	toysay = "Suit sensors!"
 
 /obj/item/toy/figure/assistant
-	name = "\improper Assistant action figure"
+	name = "\improper Office Worker action figure"
 	icon_state = "assistant"
 	inhand_icon_state = "assistant"
-	toysay = "Greytide world wide!"
+	toysay = "I'm just as useful!"
 
 /obj/item/toy/figure/atmos
-	name = "\improper Atmospheric Technician action figure"
+	name = "\improper Life Support Technician action figure"
 	icon_state = "atmos"
-	toysay = "Glory to Atmosia!"
+	toysay = "Of course you need to breath SOMEHOW in a air sealed facility!"
 
 /obj/item/toy/figure/bartender
 	name = "\improper Bartender action figure"
 	icon_state = "bartender"
-	toysay = "Where is Pun Pun?"
+	toysay = "Of course drinking on the job is okay!"
 
 /obj/item/toy/figure/bitrunner
-	name = "\improper Bitrunner action figure"
+	name = "\improper Mobile Operations Officer action figure"
 	icon_state = "bitrunner"
-	toysay = "I'm in..."
+	toysay = "You're compromised! Get out of there!"
 
 /obj/item/toy/figure/borg
 	name = "\improper Cyborg action figure"
@@ -1219,29 +1219,29 @@
 	toysound = 'sound/voice/liveagain.ogg'
 
 /obj/item/toy/figure/botanist
-	name = "\improper Botanist action figure"
+	name = "\improper Gardener action figure"
 	icon_state = "botanist"
 	toysay = "Blaze it!"
 
 /obj/item/toy/figure/captain
-	name = "\improper Captain action figure"
+	name = "\improper Site Director action figure"
 	icon_state = "captain"
-	toysay = "Any heads of staff?"
+	toysay = "Any Directors?"
 
 /obj/item/toy/figure/cargotech
-	name = "\improper Cargo Technician action figure"
+	name = "\improper Logistics Transporter action figure"
 	icon_state = "cargotech"
-	toysay = "For Cargonia!"
+	toysay = "Transporting SCP's was NOT apart of my job description!"
 
 /obj/item/toy/figure/ce
-	name = "\improper Chief Engineer action figure"
+	name = "\improper Engineering Director action figure"
 	icon_state = "ce"
-	toysay = "Wire the solars!"
+	toysay = "Fix that damn engine!"
 
 /obj/item/toy/figure/chaplain
 	name = "\improper Chaplain action figure"
 	icon_state = "chaplain"
-	toysay = "Praise Space Jesus!"
+	toysay = "Praise Jesus!"
 
 /obj/item/toy/figure/chef
 	name = "\improper Cook action figure"
@@ -1265,7 +1265,7 @@
 	toysay = "Arf!"
 
 /obj/item/toy/figure/detective
-	name = "\improper Detective action figure"
+	name = "\improper Investigation Officer action figure"
 	icon_state = "detective"
 	toysay = "This airlock has grey jumpsuit and insulated glove fibers on it."
 
@@ -1275,9 +1275,9 @@
 	toysay = "Kill 'em all!"
 
 /obj/item/toy/figure/engineer
-	name = "\improper Station Engineer action figure"
+	name = "\improper Facility Engineer action figure"
 	icon_state = "engineer"
-	toysay = "Oh god, the singularity is loose!"
+	toysay = "Oh god, the SM is delamming!"
 
 /obj/item/toy/figure/geneticist
 	name = "\improper Geneticist action figure"
@@ -1285,17 +1285,17 @@
 	toysay = "Smash!"
 
 /obj/item/toy/figure/hop
-	name = "\improper Head of Personnel action figure"
+	name = "\improper Site Manager action figure"
 	icon_state = "hop"
 	toysay = "Giving out all access!"
 
 /obj/item/toy/figure/hos
-	name = "\improper Head of Security action figure"
+	name = "\improper Security Captain action figure"
 	icon_state = "hos"
 	toysay = "Go ahead, make my day."
 
 /obj/item/toy/figure/qm
-	name = "\improper Quartermaster action figure"
+	name = "\improper Logistics Officer action figure"
 	icon_state = "qm"
 	toysay = "Please sign this form in triplicate and we will see about geting you a welding mask within 3 business days."
 
@@ -1310,7 +1310,7 @@
 	toysay = "My client is a dirty traitor!"
 
 /obj/item/toy/figure/curator
-	name = "\improper Curator action figure"
+	name = "\improper Librarian action figure"
 	icon_state = "curator"
 	toysay = "One day while..."
 
@@ -1325,7 +1325,7 @@
 	toysay = "Get the damn Revenant outta here!"
 
 /obj/item/toy/figure/paramedic
-	name = "\improper Paramedic action figure"
+	name = "\improper Emergency Response Technician action figure"
 	icon_state = "paramedic"
 	toysay = "And the best part? I'm not even a real doctor!"
 
@@ -1335,7 +1335,7 @@
 	toysay = "Alright, just take these happy pills!"
 
 /obj/item/toy/figure/prisoner
-	name = "\improper Prisoner action figure"
+	name = "\improper D-Class action figure"
 	icon_state = "prisoner"
 	toysay = "I did not hit her! I did not!"
 
@@ -1362,36 +1362,36 @@
 	toysound = 'sound/magic/disintegrate.ogg'
 
 /obj/item/toy/figure/rd
-	name = "\improper Research Director action figure"
+	name = "\improper Science Director action figure"
 	icon_state = "rd"
-	toysay = "Blowing all of the borgs!"
+	toysay = "What do you mean SCP-096 is loose?!"
 
 /obj/item/toy/figure/roboticist
-	name = "\improper Roboticist action figure"
+	name = "\improper Biomechanical Engineer action figure"
 	icon_state = "roboticist"
 	toysay = "Big stompy mechs!"
 	toysound = 'sound/mecha/mechstep.ogg'
 
 /obj/item/toy/figure/scientist
-	name = "\improper Scientist action figure"
+	name = "\improper Researcher action figure"
 	icon_state = "scientist"
-	toysay = "I call ordnance."
+	toysay = "I have the authority to self-test!"
 	toysound = 'sound/effects/explosionfar.ogg'
 
 /obj/item/toy/figure/syndie
-	name = "\improper Nuclear Operative action figure"
+	name = "\improper Chaos Insurgency action figure"
 	icon_state = "syndie"
-	toysay = "Get that fucking disk!"
+	toysay = "Get that fucking nuke!"
 
 /obj/item/toy/figure/secofficer
-	name = "\improper Security Officer action figure"
+	name = "\improper Security Guard action figure"
 	icon_state = "secofficer"
 	toysay = "I am the law!"
 	toysound = 'sound/runtime/complionator/dredd.ogg'
 
 
 /obj/item/toy/figure/warden
-	name = "\improper Warden action figure"
+	name = "\improper Security Sergeant action figure"
 	icon_state = "warden"
 	toysay = "Seventeen minutes for coughing at an officer!"
 

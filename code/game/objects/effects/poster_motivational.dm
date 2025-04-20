@@ -159,9 +159,9 @@
 	quirk_poster_department = ACCOUNT_CAR
 
 /obj/structure/sign/poster/quirk/cargo_logo
-	name = "Cargo logo"
-	desc = "A poster made with love depicting a box, a banner for Cargonia. \
-	When members of the cargo department read this poster they'll feel better!"
+	name = "Logistics Department logo"
+	desc = "A poster made with love depicting a box, a banner for Logistics Department. \
+	When members of the logistics department read this poster they'll feel better!"
 	icon_state = "cargo_logo"
 
 /obj/item/poster/quirk/cargo_slogan
@@ -169,9 +169,9 @@
 	quirk_poster_department = ACCOUNT_CAR
 
 /obj/structure/sign/poster/quirk/cargo_slogan
-	name = "Cargo Strong"
-	desc = "Cargo is Stronger Together! Cargo Workers Unite! \
-	When members of the cargo department read this poster they'll feel better!"
+	name = "Logistics Strong"
+	desc = "Logistics is Stronger Together! Logistics Workers Unite! \
+	When members of the logistics department read this poster they'll feel better!"
 	icon_state = "cargo_slogan"
 
 /obj/item/poster/quirk/engineering_logo

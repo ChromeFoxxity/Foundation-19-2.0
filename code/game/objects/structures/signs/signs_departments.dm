@@ -208,16 +208,16 @@ MAPPING_DIRECTIONAL_HELPERS(/obj/structure/sign/departments/lawyer, 32)
 ///////SUPPLY
 
 /obj/structure/sign/departments/cargo
-	name = "\improper Cargo sign"
-	sign_change_name = "Department - Cargo"
-	desc = "A sign labelling an area where cargo ships dock."
+	name = "\improper Logistics sign"
+	sign_change_name = "Department - Logistics"
+	desc = "A sign labelling an area where logistics supplies are sent."
 	icon_state = "cargo"
 
 MAPPING_DIRECTIONAL_HELPERS(/obj/structure/sign/departments/cargo, 32)
 
 /obj/structure/sign/departments/exodrone
 	name = "\improper Exodrone sign"
-	sign_change_name = "Department - Cargo: exodrone"
+	sign_change_name = "Department - Logistics: exodrone"
 	desc = "A sign labelling an area where exodrones are used."
 	icon_state = "exodrone"
 

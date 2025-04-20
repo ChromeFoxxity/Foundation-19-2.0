@@ -194,8 +194,8 @@
 		new /obj/item/clothing/accessory/medal/silver/security(src)
 
 /obj/item/storage/lockbox/medal/cargo
-	name = "cargo award box"
-	desc = "A locked box used to store awards to be given to members of the cargo department."
+	name = "logistics award box"
+	desc = "A locked box used to store awards to be given to members of the logistics department."
 	req_access = list(ACCESS_QM)
 
 /obj/item/storage/lockbox/medal/cargo/PopulateContents()

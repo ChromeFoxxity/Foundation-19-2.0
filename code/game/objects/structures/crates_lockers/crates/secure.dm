@@ -96,7 +96,7 @@
 	base_icon_state = "centcom_secure"
 
 /obj/structure/closet/crate/secure/cargo
-	name = "secure cargo crate"
+	name = "secure logistics crate"
 	icon_state = "cargo_secure"
 	base_icon_state = "cargo_secure"
 

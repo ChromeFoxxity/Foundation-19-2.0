@@ -55,7 +55,7 @@
 			"Solar" = list("icon_state" = "engi_e_crate"),
 			"Engineering" = list("icon_state" = "engi_crate"),
 			"Atmospherics" = list("icon_state" = "atmos"),
-			"Cargo" = list("icon_state" = "cargo"),
+			"Logistics" = list("icon_state" = "cargo"),
 			"Mining" = list("icon_state" = "mining"),
 			"Command" = list("icon_state" = "centcom"),
 		)
@@ -336,7 +336,7 @@
 	base_icon_state = "centcom"
 
 /obj/structure/closet/crate/cargo
-	name = "cargo crate"
+	name = "logistics crate"
 	icon_state = "cargo"
 	base_icon_state = "cargo"
 

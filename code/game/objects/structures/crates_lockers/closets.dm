@@ -113,7 +113,7 @@ GLOBAL_LIST_EMPTY(roundstart_station_closets)
 	var/static/list/closet_paint_jobs
 	if(isnull(closet_paint_jobs))
 		closet_paint_jobs = list(
-		"Cargo" = list("icon_state" = "qm"),
+		"Logistics" = list("icon_state" = "qm"),
 		"Engineering" = list("icon_state" = "ce"),
 		"Engineering Secure" = list("icon_state" = "eng_secure"),
 		"Radiation" = list("icon_state" = "eng", "icon_door" = "eng_rad"),

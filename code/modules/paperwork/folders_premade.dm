@@ -20,7 +20,7 @@
 
 /obj/item/folder/documents
 	name = "folder- 'TOP SECRET'"
-	desc = "A folder stamped \"Top Secret - Property of SCP Foundation Corporation. Unauthorized distribution is punishable by death.\""
+	desc = "A folder stamped \"Top Secret - Property of The SCP Foundation. Unauthorized distribution is punishable by termination.\""
 
 /obj/item/folder/documents/Initialize(mapload)
 	. = ..()
